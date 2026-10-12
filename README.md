@@ -39,14 +39,14 @@ npm run dev
 
 Open the local URL displayed in your terminal to use the app.
 
-## 💾 Data Storage
+## 💾 Local Storage
 
 Tasks are stored in the browser's LocalStorage, so they remain available after refreshing the page in the same browser, as long as the stored data is not cleared.
 
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Tejendra Jadon**
 
 - GitHub: [@tejendrathakur061](https://github.com/tejendrathakur061)
 
