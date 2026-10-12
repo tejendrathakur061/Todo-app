@@ -1,16 +1,57 @@
-# React + Vite
+# ✅ To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Manage your tasks. Stay organized. Get things done.
 
-Currently, two official plugins are available:
+A simple, responsive To-Do application built with **React, Tailwind CSS, and JavaScript**, using LocalStorage to save tasks directly in the browser.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/LocalStorage-Browser_Storage-orange?style=for-the-badge" alt="LocalStorage" />
+</p>
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- ➕ Add new tasks
+- ✏️ Edit and update existing tasks
+- 🗑️ Delete tasks
+- ☑️ Mark tasks as completed or pending
+- 🔍 Filter tasks by All, Active, and Completed
+- 💾 Save tasks using browser LocalStorage
+- 📱 Responsive UI with Tailwind CSS
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 📜 JavaScript
+- 💾 Browser LocalStorage
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+cd YOUR-REPOSITORY
+npm install
+npm run dev
+```
+
+Open the local URL displayed in your terminal to use the app.
+
+## 💾 Data Storage
+
+Tasks are stored in the browser's LocalStorage, so they remain available after refreshing the page in the same browser, as long as the stored data is not cleared.
+
+
+## 👨‍💻 Author
+
+**Your Name**
+
+- GitHub: [@tejendrathakur061](https://github.com/tejendrathakur061)
+
+---
+
+<p align="center">
+  Built with ❤️ using React and Tailwind CSS
+</p>
